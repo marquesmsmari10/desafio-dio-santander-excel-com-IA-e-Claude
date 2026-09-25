@@ -61,4 +61,4 @@ Como uma boa *tech enthusiast*, eu sei que um projeto nunca está 100% finalizad
 
 *Thank you so much* por visitar meu projeto! Se você gostou, não esqueça de deixar uma estrelinha ⭐ no repositório. Dúvidas ou sugestões? Sinta-se à vontade para abrir uma *issue* ou me chamar!
 
-**Feito com 💖 e muita dedicação por Mariana!**
+**Feito com 💖 e muita dedicação por Mariana, com ajuda do Gemini e da DIO!**
