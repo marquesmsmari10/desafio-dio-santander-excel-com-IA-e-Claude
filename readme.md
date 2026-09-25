@@ -20,7 +20,7 @@ Foi exatamente para responder a essa pergunta que criei esta **Ferramenta de Sim
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- **Google Sheets / Microsoft Excel:** Para a estruturação lógica, cálculos financeiros e criação do modelo.
+- **Microsoft Excel:** Para a estruturação lógica, cálculos financeiros e criação do modelo.
 - **Fórmulas Financeiras:** Utilização da função de Valor Futuro (`VF`) para calcular o crescimento do patrimônio.
 - **GitHub & Markdown:** Para versionamento, documentação técnica estruturada e compartilhamento do portfólio.
 
@@ -43,7 +43,7 @@ Foi exatamente para responder a essa pergunta que criei esta **Ferramenta de Sim
 Você pode testar a planilha você mesmo(a)! É super fácil:
 
 1. Faça o download do arquivo `simulador_fiis.csv` neste repositório.
-2. Abra o seu **Google Sheets** (Planilhas do Google).
+2. Abra o Microsoft Excel.
 3. Vá em **Arquivo > Importar > Fazer Upload** e selecione o arquivo baixado.
 4. Na caixinha que aparecer, escolha "Substituir planilha atual" e marque a opção para converter texto em números e datas.
 5. *Voilá!* A planilha está pronta. Agora é só brincar com os números nas células de **Parâmetros de Entrada** e ver a mágica acontecer!
